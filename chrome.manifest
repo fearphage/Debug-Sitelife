@@ -1,0 +1,5 @@
+content  debugsitelife  chrome/content/
+skin     debugsitelife  classic/1.0    chrome/skin/classic/
+locale   debugsitelife  en-US          chrome/locale/en-US/
+
+overlay chrome://firebug/content/firebugOverlay.xul         chrome://debugsitelife/content/debugsitelife.xul
